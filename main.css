@@ -1,0 +1,39 @@
+.nav{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    top: 0%;
+    left: 0%;
+    background-color: grey;
+    font-size: x-large;
+    margin-top: -40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+li{
+    display: inline;
+    padding: 10px;
+    background-color: lightgrey;
+}
+#link-one{
+    font: menu;
+}
+#link-two{
+    font: menu;
+}
+#link-three{
+    font: menu;
+}
+p{
+    text-align: center;
+    background-color: black;
+    margin-top: 350px;
+    color:rgba(202, 40, 0, 0.986); 
+    border-radius: 15px;
+    padding: 10px;
+}
+
+body{
+    background-image: url(../HTMLCSSPreWork/3-Assets/artificial-intelligence-3706562_960_720.jpg);
+
+}
